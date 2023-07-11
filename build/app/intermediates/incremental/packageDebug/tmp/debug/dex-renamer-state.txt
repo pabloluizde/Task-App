@@ -1,0 +1,4 @@
+#Fri May 26 16:10:42 BRT 2023
+base.0=/Users/pabloluiz/study/teste_eclipse/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
